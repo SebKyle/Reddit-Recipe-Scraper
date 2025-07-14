@@ -22,7 +22,7 @@ A Python script that extracts recipes from r/recipes subreddit and compiles them
 [DEFAULT]
 client_id=your_client_id
 client_secret=your_client_secret
-user_agent=recipe_scraper/v1.0 (by your_reddit_username)
+user_agent=recipe_scraper/v1.0 by u/HorseActual
 
 
 ## Known Issues
